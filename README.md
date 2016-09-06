@@ -1,6 +1,6 @@
 # 30 Days of React Native
 30 days of React Native examples/demos.
-
+react 初学者，以及死忠粉
 
 ![main](https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif)
 
